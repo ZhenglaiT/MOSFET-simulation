@@ -1,3 +1,0 @@
-Actually, I only modified three files: The gmsh_mos2d.py, simple_physics.py and simple_dd. But for convenience, I put all the required files in here.
-You can modify relative paths to run them. And you can also overwrite them with the original code of the software 
-(please rest assured that the original version is commented in the files I modified, you don't need to worry about losing the original version of the code).
